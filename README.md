@@ -38,7 +38,7 @@ Most of the later work emphasises **hyperparameter tuning** and **selecting stro
 ### Cross-method principle
 
 - Keep the **evaluation frame fixed** (same temporal split; preprocessing matched to each model family), then tune **within** each method.  
-- Use **metrics + qualitative inspection** (are top terms / topic keywords interpretable and consistent with plausible ML history?) when choosing what to present as the “best” configuration.
+- Use **metrics + qualitative inspection** (are top terms / topic keywords interpretable and consistent with plausible ML history) when choosing what to present as the “best” configuration.
 
 ---
 
