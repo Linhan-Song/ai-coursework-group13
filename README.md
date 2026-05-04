@@ -55,7 +55,3 @@ Most of the later work emphasises **hyperparameter tuning** and **selecting stro
 Follow the course rules on **citations, plagiarism, and generative tools**. This README is a high-level overview only and **does not replace** the formal group report’s methods, tables, and limitations sections.
 
 ---
-
-## Branch note
-
-`bryan_branch` may diverge from `main` while coursework is in progress. For the latest Task 3 notebook and tuning experiments on this line of work, use **`bryan_branch`**.
