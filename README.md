@@ -50,8 +50,4 @@ Most of the later work emphasises **hyperparameter tuning** and **selecting stro
 
 ---
 
-## Academic integrity
 
-Follow the course rules on **citations, plagiarism, and generative tools**. This README is a high-level overview only and **does not replace** the formal group report’s methods, tables, and limitations sections.
-
----
